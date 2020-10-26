@@ -1,44 +1,37 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: Tim Baumgärtner
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
-baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-121636368-3"
+  Tim Baumgärtner's personal website.
+baseurl: "/" # the subpath of the site
+url: "https://timbmg.github.io" # the base hostname & protocol for the site
+og_image: /assets/img/profile-picture.jpg
+google_analytics: "UA-134672665-1"
 
 header:
   pages:
-    - name: Home
+    - name: About
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Publications
+      slug: /publications
+    - name: CV
+      slug: /cv
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      value: baumgaertner.t@gmail.com
+      link: mailto:baumgaertner.t@gmail.com
   follow:
     - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+      link: https://twitter.com/timbmg
+      username: "@timbmg"
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: https://linkedin.com/in/timbmg
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Weibo
-      link: http://weibo.com/u/YourWeiboUsername
-    - name: RSS
-      link: /feed.xml
+      link: http://github.com/timbmg
 
 # Build settings
 markdown: kramdown
