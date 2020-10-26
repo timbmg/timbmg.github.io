@@ -188,6 +188,19 @@ pre {
   position: relative;
 }
 
+.logo-name-wrapper {
+  width:200px; 
+  float:left;
+}
+.name {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
 /**
  * Clearfix
  */
