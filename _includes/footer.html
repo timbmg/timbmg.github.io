@@ -7,11 +7,8 @@
         {% for contact in site.footer.contact %}
 
           {% assign contact_icon_path = "/assets/img/icons/" | append: contact.name | downcase | append: ".png" | absolute_url %}
-          <img
-            src="{{ contact_icon_path }}"
-            alt="{{ contact.name | downcase }}"
-          />
-          <a href="{{ contact.link }}" id="{{ contact.name | downcase }}-link">
+        <img src="{{ contact_icon_path }}" alt="{{ contact.name | downcase }}" />
+        <a href="{{ contact.link }}" id="{{ contact.name | downcase }}-link" target="blank">
             {% if contact.value and contact.value != "" and contact.value != nil %}
               {{ contact.value }}
             {% else %}
@@ -30,11 +27,8 @@
           <span class="wrap-link">
 
             {% assign follow_icon_path = "/assets/img/icons/" | append: follow.name | downcase | append: ".png" | absolute_url %}
-            <img
-              src="{{ follow_icon_path }}"
-              alt="{{ follow.name | downcase }}"
-            />
-            <a href="{{ follow.link }}">
+          <img src="{{ follow_icon_path }}" alt="{{ follow.name | downcase }}" />
+          <a href="{{ follow.link }}" target="blank">
               {% if follow.value and follow.value != "" and follow.value != nil %}
                 {{ follow.value }}
               {% else %}
