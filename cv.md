@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1>Curriculum Vitae</h1>
-<a href="/assets/files/cv.pdf" target="blank">pdf</a>
+<h4><a href="/assets/files/cv.pdf" target="blank">pdf</a></h4>
 <h2>Experience</h2>
 <h3>Data Scientist, Serviceware</h3>
 <p>Implementation, evaluation and deployment of Machine Learning models for document retrieval and classification. Development of a web UI for client demonstrations. Containerization of machine learning models for microservices architecture.</p>
