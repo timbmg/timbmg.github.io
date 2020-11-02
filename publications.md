@@ -3,9 +3,9 @@ layout: default
 ---
 <h1>Publications</h1>
 <h4>
-  <a href="https://scholar.google.com/citations?user=pwDGJYsAAAAJ&hl=en">google scholar</a> | 
-  <a href="https://dblp.uni-trier.de/pid/220/3835.html">dblp</a> | 
-  <a href="https://www.semanticscholar.org/author/Tim-Baumg%C3%A4rtner/51190347">semantic scholar</a>
+  <a href="https://scholar.google.com/citations?user=pwDGJYsAAAAJ&hl=en" target="blank">google scholar</a> | 
+  <a href="https://dblp.uni-trier.de/pid/220/3835.html" target="blank">dblp</a> | 
+  <a href="https://www.semanticscholar.org/author/Tim-Baumg%C3%A4rtner/51190347" target="blank">semantic scholar</a>
 </h4>
 <h3>The PhotoBook Dataset: Building Common Ground through Visually-Grounded Dialogue, ACL 2019</h3>
 <p>Janosch Haber, ​Tim Baumgärtner​, Ece Takmaz, Lieke Gelderloos, Elia Bruni, Raquel Fernández</p>
