@@ -16,7 +16,7 @@ layout: default
 
 
 <h2>Education</h2>
-<h3>PhD Candidate, Ubiquitous Knowledge Processing Lab, TU Darnstadt</h3>
+<h3>PhD Candidate, Ubiquitous Knowledge Processing Lab, TU Darmstadt</h3>
 <p></p>
 <h3>MSc Artificial Intelligence, Universiteit van Amsterdam</h3>
 <p></p>
