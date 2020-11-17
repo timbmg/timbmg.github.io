@@ -43,3 +43,9 @@ layout: default
   <a href="https://www.aclweb.org/anthology/C18-1104" target="blank">acl</a>
 </p>
 
+<h2>Other</h2>
+<h3>Master Thesis: Belief State for Visually Grounded,Task-Oriented Neural Dialogue Model</h3>
+<p>
+  <a href="https://raw.githubusercontent.com/timbmg/belief/master/thesis.pdf" target="blank">pdf</a>
+  <a href="https://github.com/timbmg/belief" target="blank">github</a>
+</p>
